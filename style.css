@@ -69,9 +69,13 @@ section {
     margin-right: 110px;
     margin-left: 50px;
     padding: 20px;
-    width: 200px;
+    width: auto;
     height: 180px;
     margin-bottom: 90px;
+}
+.images {
+    position: relative;
+    left: 100px;
 }
 @media only screen and (min-width:600px) {
     .media {
